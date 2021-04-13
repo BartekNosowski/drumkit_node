@@ -1,6 +1,13 @@
 {
   "name": "drumkit_node",
   "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.29.1"
+  },
+  "engines": {
+    "node": "4.6.1"
+  },
   "description": "",
   "main": "index.js",
   "scripts": {
