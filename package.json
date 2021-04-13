@@ -6,7 +6,7 @@
     "moment": "^2.29.1"
   },
   "engines": {
-    "node": "4.6.1"
+    "node": "4.7.0"
   },
   "description": "",
   "main": "index.js",
